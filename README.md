@@ -16,7 +16,7 @@ The user can then filter the data by specifying text input filters for each colu
 
 <code>pip install pandas plotly streamlit</code>
 
-My code code is well-organized and easy to understand each line so that you know what each line of code represents.
+My code is well-organized and easy to understand each line so that you know what each line of code represents.
 
 Thank you<br>
 Richard Vaalotu
